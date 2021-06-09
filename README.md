@@ -2,7 +2,7 @@
 
 ## About Developer
 
-Hello, my name is Rahmat Subandi. I am a student at the University of Mercu Buana, Undergraduate Program with the Department of Informatics Engineering.
+
 
 ## About Tokopaedi
 
